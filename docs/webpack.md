@@ -25,3 +25,8 @@
 ## Files 
 - [URL Loader](https://github.com/webpack-contrib/url-loader)
 - [File Loader](https://github.com/webpack-contrib/file-loader)
+
+
+## Tools
+- https://github.com/NekR/offline-plugin
+- https://github.com/jantimon/html-webpack-plugin

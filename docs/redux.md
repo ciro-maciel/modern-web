@@ -19,3 +19,10 @@
 - [Add more recipes](https://github.com/redux-observable/redux-observable/issues/87)
 - [Question: Integration with redux-form](https://github.com/redux-saga/redux-saga/issues/161#issuecomment-191312502)
 - [How to handle async update onUpdate of each field and keep ids using redux-form and redux-observable](https://github.com/erikras/redux-form/issues/3215)
+- https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options
+- http://redux.js.org/docs/basics/UsageWithReact.html#containersfilterlinkjs
+- http://redux-form.com/7.0.3/examples/remoteSubmit/ 
+- http://redux-form.com/7.0.3/examples/selectingFormValues/
+- http://redux-form.com/7.0.3/docs/api/ReduxForm.md/
+- https://github.com/erikras/redux-form/issues/1385
+- https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options

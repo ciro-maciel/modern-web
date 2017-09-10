@@ -15,5 +15,48 @@
 - [react-loadable-example](https://github.com/thejameskyle/react-loadable-example)
 - [Recompose](https://github.com/acdlite/recompose)
 
+## React 
+- https://facebook.github.io/react/docs/installation.html
+- https://shripadk.github.io/react/docs/class-name-manipulation.html
+- https://shripadk.github.io/react/docs/multiple-components.html
+- https://shripadk.github.io/react/docs/reusable-components.html
+- https://shripadk.github.io/react/docs/forms.html
+- https://facebook.github.io/react/docs/higher-order-components.html
+- https://facebook.github.io/react/docs/react-api.html
+- https://facebook.github.io/react/docs/forms.html
+- https://facebook.github.io/react/docs/react-component.html
+
+
+
 ## React - Router
 - https://github.com/ReactTraining/react-router/blob/master/packages/react-router/docs/api/Route.md#render-func
+
+
+## Components
+- https://github.com/yahoo/react-intl
+- https://github.com/ReactTraining/react-router
+- https://github.com/ReactTraining/react-router/tree/v3/docs
+                // http://react-day-picker.js.org/docs/api-input.html
+
+
+
+## Boilerplate
+- https://github.com/facebookincubator/create-react-app
+- https://github.com/MichalZalecki/react-boilerplate-lite
+- https://michalzalecki.com/the-best-react-boilerplate/
+- https://github.com/react-boilerplate/react-boilerplate
+
+
+## Articles
+- https://vimeo.com/168648012
+- https://shinglyu.github.io/web/2016/04/06/minimal_react.html
+- https://getpocket.com/a/read/1248664376
+- https://medium.com/front-end-hacking/react-without-webpack-a-dream-come-true-6cf24a1ff766
+- https://www.gitbook.com/book/developmentarc/react-indepth
+- https://egghead.io/lessons/react-use-a-react-intl-higher-order-component-to-format-messages-and-get-current-locale
+
+## Courses
+- https://egghead.io/courses/start-using-react-to-build-web-applications
+- https://egghead.io/courses/build-your-first-production-quality-react-app
+- https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl
+
