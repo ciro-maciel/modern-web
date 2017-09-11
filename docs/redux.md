@@ -26,3 +26,31 @@
 - http://redux-form.com/7.0.3/docs/api/ReduxForm.md/
 - https://github.com/erikras/redux-form/issues/1385
 - https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options
+- https://github.com/erikras/redux-form/issues/3215
+
+
+## Redux Observable
+// In redux-observable your epics receive a stream of all actions dispatched--what may not be obvious is that includes actions dispatched by other epics. 
+// This is a very powerful feature because you can write epics that don't need to be coupled to implementation details in the other epics. The action 
+// is the contract.
+
+- https://stackoverflow.com/questions/45852079/use-one-output-of-epic-as-another-input-of-epic-in-react-observable
+- https://medium.com/kevin-salters-blog/epic-middleware-in-redux-e4385b6ff7c6
+- https://stackoverflow.com/questions/45194869/how-to-handle-async-update-onupdate-of-each-field-and-keep-ids-using-redux-form
+- https://github.com/prescottprue/react-redux-firebase/blob/master/docs/recipes/redux-form.md
+- https://redux-observable.js.org/docs/basics/Epics.html
+- https://redux-observable.js.org/docs/recipes/Cancellation.html
+- https://github.com/este/este/blob/master/epics/auth.js#L34
+- https://medium.com/kevin-salters-blog/epic-middleware-in-redux-e4385b6ff7c6
+- https://medium.com/kevin-salters-blog/writing-epic-unit-tests-bd85f05685b
+- http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
+- https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
+- https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34599594#34599594
+- https://github.com/redux-observable/redux-observable/issues/33
+- https://www.robinwieruch.de/redux-observable-rxjs/
+- https://github.com/rwieruch/react-redux-soundcloud/blob/master/extension-observable/src/actions/auth.js
+- https://medium.com/kevin-salters-blog/epic-middleware-in-redux-e4385b6ff7c6
+- https://github.com/este/este/blob/master/epics/auth.js#L34
+- https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/getjson.md
+- https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/post.md
+- https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS
