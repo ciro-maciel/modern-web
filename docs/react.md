@@ -15,6 +15,11 @@
 - [react-loadable-example](https://github.com/thejameskyle/react-loadable-example)
 - [Recompose](https://github.com/acdlite/recompose)
 
+### Autentication
+- https://github.com/hoodsy/3ree-auth-example/blob/master/common/views/routes.js
+- https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+- https://github.com/ReactTraining/react-router/blob/master/packages/react-router/docs/api/Redirect.md
+
 ## React 
 - https://facebook.github.io/react/docs/installation.html
 - https://shripadk.github.io/react/docs/class-name-manipulation.html
