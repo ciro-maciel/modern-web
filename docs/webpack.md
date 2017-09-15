@@ -18,6 +18,10 @@
 - [css-loader](https://webpack.js.org/loaders/css-loader/)
 - [Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
 
+## Performance
+- [Happiness in the form of faster webpack build times.](https://github.com/amireh/happypack)
+- [Builds multi-config webpack projects in parallel](https://github.com/trivago/parallel-webpack)
+
 ## CSS
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [CSS Loader](https://github.com/webpack-contrib/css-loader)
