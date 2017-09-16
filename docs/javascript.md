@@ -7,3 +7,6 @@
 - [Classes](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Classes)
 - [Cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
 - http://stackoverflow.com/questions/2390789/how-to-replace-all-dots-in-a-string-using-javascript
+
+
+- [Managing screen orientation](https://developer.mozilla.org/pt-BR/docs/Web/API/CSS_Object_Model/Managing_screen_orientation)
