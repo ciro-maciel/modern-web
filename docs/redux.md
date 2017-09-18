@@ -27,7 +27,7 @@
 - https://github.com/erikras/redux-form/issues/1385
 - https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options
 - https://github.com/erikras/redux-form/issues/3215
-
+- [Submit a form when user press enter](https://github.com/erikras/redux-form/issues/572)
 
 ## Redux Observable
 // In redux-observable your epics receive a stream of all actions dispatched--what may not be obvious is that includes actions dispatched by other epics. 
