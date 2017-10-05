@@ -9,3 +9,4 @@
 
 // https://www.npmjs.com/package/rxjs
 // http://reactivex.io/rxjs/
+// https://github.com/redux-observable/redux-observable/issues/62
