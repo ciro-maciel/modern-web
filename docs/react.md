@@ -34,6 +34,15 @@
 
 
 
+// import Loadable from 'react-loadable';
+// https://github.com/thejameskyle/react-loadable
+// const AsyncWelcome = Loadable({
+//     loader: ()=> import(/* webpackChunkName: "welcome" */'../components/welcome'),
+//     loading: loading    
+// });
+
+
+
 ## React - Router
 - https://github.com/ReactTraining/react-router/blob/master/packages/react-router/docs/api/Route.md#render-func
 
