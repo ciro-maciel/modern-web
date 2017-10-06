@@ -45,6 +45,12 @@
 
 ## React - Router
 - https://github.com/ReactTraining/react-router/blob/master/packages/react-router/docs/api/Route.md#render-func
+// https://github.com/hoodsy/3ree-auth-example/blob/master/common/views/routes.js
+// https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+// https://stackoverflow.com/questions/43164554/how-to-implement-authenticated-routes-in-react-router-4
+{/* https://github.com/ReactTraining/react-router/blob/master/packages/react-router/docs/api/Redirect.md */}
+
+
 
 
 ## Components
