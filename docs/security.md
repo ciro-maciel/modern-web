@@ -9,6 +9,9 @@
 - https://github.com/auth0/express-jwt#error-handling
 - https://github.com/jfromaniello/express-unless/issues/20
 
+https://auth0.com/blog/blacklist-json-web-token-api-keys/
+https://auth0.com/blog/blacklist-json-web-token-api-keys/#impl
+https://auth0.com/docs/api/management/v2#!/Blacklists/get_tokens
 
 
 ## Articles
