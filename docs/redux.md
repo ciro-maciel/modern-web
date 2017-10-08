@@ -34,6 +34,7 @@
 // This is a very powerful feature because you can write epics that don't need to be coupled to implementation details in the other epics. The action 
 // is the contract.
 
+- https://egghead.io/courses/up-and-running-with-redux-observable
 - https://stackoverflow.com/questions/45852079/use-one-output-of-epic-as-another-input-of-epic-in-react-observable
 - https://medium.com/kevin-salters-blog/epic-middleware-in-redux-e4385b6ff7c6
 - https://stackoverflow.com/questions/45194869/how-to-handle-async-update-onupdate-of-each-field-and-keep-ids-using-redux-form
