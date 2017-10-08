@@ -55,3 +55,27 @@
 - https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/getjson.md
 - https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/post.md
 - https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS
+
+
+// https://www.npmjs.com/package/rxjs
+// http://reactivex.io/rxjs/
+// import {
+//     Observable
+// } from 'rxjs/Observable';
+// import 'rxjs/add/observable/of';
+
+// import 'rxjs/add/operator/catch';
+// import 'rxjs/add/operator/skip';
+// import 'rxjs/add/operator/debounceTime';
+// import 'rxjs/add/operator/map';
+// import 'rxjs/add/operator/mergeMap';
+// import 'rxjs/add/operator/startWith';
+
+// https://redux-observable.js.org/docs/basics/Epics.html
+// https://github.com/ReactiveX/rxjs/issues/1694
+// https://redux-observable.js.org/docs/recipes/Cancellation.html
+// https://github.com/este/este/blob/master/epics/auth.js#L34
+    // https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/getjson.md
+    // https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/post.md
+    // https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS
+
