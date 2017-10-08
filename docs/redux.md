@@ -57,6 +57,10 @@
 - https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS
 
 
+// https://redux-form.com/7.0.4/docs/faq/howtoconnect.md/
+// https://stackoverflow.com/questions/39419237/what-is-mapdispatchtoprops
+
+
 // https://www.npmjs.com/package/rxjs
 // http://reactivex.io/rxjs/
 // import {
