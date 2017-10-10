@@ -63,17 +63,19 @@
 
 // https://www.npmjs.com/package/rxjs
 // http://reactivex.io/rxjs/
-// import {
-//     Observable
-// } from 'rxjs/Observable';
-// import 'rxjs/add/observable/of';
+/import {
+    Observable
+} from 'rxjs/Observable';
+import 'rxjs/add/observable/dom/ajax';
+import 'rxjs/add/operator/catch';
+import 'rxjs/add/operator/skip';
+import 'rxjs/add/operator/debounceTime';
+import 'rxjs/add/operator/map';
+import 'rxjs/add/operator/do';
+import 'rxjs/add/operator/filter';
+import 'rxjs/add/operator/mergeMap';
+import 'rxjs/add/operator/startWith';
 
-// import 'rxjs/add/operator/catch';
-// import 'rxjs/add/operator/skip';
-// import 'rxjs/add/operator/debounceTime';
-// import 'rxjs/add/operator/map';
-// import 'rxjs/add/operator/mergeMap';
-// import 'rxjs/add/operator/startWith';
 
 // https://redux-observable.js.org/docs/basics/Epics.html
 // https://github.com/ReactiveX/rxjs/issues/1694
