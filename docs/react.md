@@ -1,5 +1,7 @@
 ## React
 
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Design Principles](https://reactjs.org/docs/design-principles.html)
 - [A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 - [3 Points to Consider before Migrating Away from React Because of Facebook’s ‘BSD+ Patent’ License](https://blog.cloudboost.io/3-points-to-consider-before-migrating-away-from-react-because-of-facebooks-bsd-patent-license-b4a32562d268)
 - [Code Spliting](https://www.youtube.com/watch?v=bb6RCrDaxhw&t)
