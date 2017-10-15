@@ -21,3 +21,4 @@
 - [Integrating Analytics](https://developers.google.com/web/ilt/pwa/integrating-analytics)
 - [JavaScript Libraries for Progressive Web Apps](https://workboxjs.org/)
 - [Offline Google Analytics Made Easy](https://developers.google.com/web/updates/2016/07/offline-google-analytics)
+- [Frameworks and Tools for Progressive Web Apps](https://www.youtube.com/watch?v=zuGE3eFQD9I)

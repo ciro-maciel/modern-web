@@ -12,6 +12,7 @@
 - [Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 - [DevTools for Redux](https://github.com/gaearon/redux-devtools)
 - [Time Travel in React Redux apps using the Redux DevTools](https://onsen.io/blog/react-redux-devtools-with-time-travel/)
+- https://github.com/markerikson/react-redux-links/blob/master/redux-side-effects.md
 
 ## Redux Form
 - [Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
@@ -34,6 +35,7 @@
 // This is a very powerful feature because you can write epics that don't need to be coupled to implementation details in the other epics. The action 
 // is the contract.
 
+- https://stackoverflow.com/questions/tagged/redux-observable
 - https://egghead.io/courses/up-and-running-with-redux-observable
 - https://stackoverflow.com/questions/45852079/use-one-output-of-epic-as-another-input-of-epic-in-react-observable
 - https://medium.com/kevin-salters-blog/epic-middleware-in-redux-e4385b6ff7c6
@@ -55,7 +57,7 @@
 - https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/getjson.md
 - https://github.com/Reactive-Extensions/RxJS-DOM/blob/master/doc/operators/post.md
 - https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS
-
+- https://medium.com/@markusctz/action-streams-and-redux-77f8ac99c2e9
 
 // https://redux-form.com/7.0.4/docs/faq/howtoconnect.md/
 // https://stackoverflow.com/questions/39419237/what-is-mapdispatchtoprops

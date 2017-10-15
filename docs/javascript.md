@@ -1,5 +1,7 @@
 ## Javascript
 
+
+- [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Subclassing Arrays in ES2015](http://thejsguy.com/2017/09/21/subclassing-arrays-in-es2015.html)
 - [A tiny wrapper built around fetch with an intuitive syntax.](https://github.com/elbywan/wretch)
@@ -13,3 +15,5 @@
 
 
 - [Managing screen orientation](https://developer.mozilla.org/pt-BR/docs/Web/API/CSS_Object_Model/Managing_screen_orientation)
+- [URLSearchParams](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
+- [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
