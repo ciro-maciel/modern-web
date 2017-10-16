@@ -1,4 +1,4 @@
-## The Modern Web \(in working...\)
+### The Modern Web \(in working...\)
 
 * [Chapter 1 - The Process](chapter-1/README.md)
 * [Chapter 2 - Programming Language](chapter-2/README.md)
