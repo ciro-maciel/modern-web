@@ -7,6 +7,3 @@
 * [Chapter 5 - Software](chapter-5/README.md)
 * [Chapter 6 - Development Process](chapter-6/README.md)
 * [Chapter 7 - Development Tools](chapter-7/README.md)
-
-
-

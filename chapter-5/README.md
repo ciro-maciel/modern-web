@@ -24,3 +24,21 @@
         * [An introduction to JSDoc](http://www.2ality.com/2011/08/jsdoc-intro.html)
         * [GitBook](gitbook.com)
             * [GitBook Toolchain Documentation](https://toolchain.gitbook.com/)
+
+
+
+### Application Architecture
+- [Flux](https://facebook.github.io/flux/)
+- [Architecture Components](https://www.youtube.com/watch?v=Ts-uxYiBEQ8)
+- [Realtime](https://realtimeapi.io/)
+
+### Microservices 
+- Microservices Resource Guide](https://martinfowler.com/microservices/)
+- [An Overview of Designing Microservices - March 2017 AWS Online Tech Talks](https://www.youtube.com/watch?v=Ijs55IA8DIk)
+
+
+## Internationalization and localization
+
+In computing, internationalization and localization are means of adapting computer software to different languages, regional differences and technical requirements of a target market (locale).[1] Internationalization is the process of designing a software application so that it can potentially be adapted to various languages and regions without engineering changes.
+
+- [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
