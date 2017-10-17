@@ -1,5 +1,3 @@
-### The Modern Web \(in working...\)
-
 * [Chapter 1 - The Process](chapter-1/README.md)
 * [Chapter 2 - Language](chapter-2/README.md)
 * [Chapter 3 - Runtime](chapter-3/README.md)
