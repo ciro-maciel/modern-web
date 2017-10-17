@@ -1,4 +1,7 @@
 
+https://github.com/styled-components/awesome-styled-components
+
+https://www.youtube.com/watch?v=u6gQ48rSw-E
 
 
 ## React - Components
