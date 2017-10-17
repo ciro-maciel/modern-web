@@ -7,3 +7,6 @@
 * [Chapter 5 - Software](chapter-5/README.md)
 * [Chapter 6 - Development](chapter-6/README.md)
 * [Chapter 7 - Application](chapter-7/README.md)
+* [Chapter 8 - Test](chapter-8/README.md)
+* [Chapter 9 - Deploy](chapter-9/README.md)
+* [Chapter 10 - Metrics](chapter-10/README.md)
