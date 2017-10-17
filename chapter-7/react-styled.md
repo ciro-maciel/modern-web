@@ -7,5 +7,10 @@
 - https://github.com/necolas/react-native-web
 
 
-https://www.youtube.com/watch?v=hNwQPJy-XZY&list=PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH&index=7
-https://www.youtube.com/watch?time_continue=89&v=bIK2NwoK9xk
+https://www.youtube.com/watch?v=hNwQPJy-XZY
+https://www.youtube.com/watch?v=bIK2NwoK9xk
+
+
+
+- https://www.styled-components.com/
+- https://polished.js.org/docs/
