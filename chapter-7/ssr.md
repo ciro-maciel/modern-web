@@ -4,3 +4,4 @@ Renderização no lado do servidor, ou simplesmente SSR (do inglês Server-Side 
 
 - [Renderizando no Lado do Servidor](https://br.vuejs.org/v2/guide/ssr.html)
 
+- [styled-components](https://www.styled-components.com/docs/advanced#server-side-rendering)
