@@ -1,8 +1,6 @@
 
 https://github.com/styled-components/awesome-styled-components
 
-https://www.youtube.com/watch?v=u6gQ48rSw-E
-
 
 https://medium.com/@jxnblk/patterns-for-style-composition-in-react-eb4f5f313e6f
 https://medium.com/@jxnblk/patterns-for-style-composition-in-react-eb4f5f313e6f
