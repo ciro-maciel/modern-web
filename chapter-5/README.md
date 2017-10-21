@@ -19,11 +19,6 @@
     * [Graph](https://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29)
     * [Set](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29)
     * [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
-* [Documentation](https://en.wikipedia.org/wiki/Software_documentation)
-    * [JSDoc](http://usejsdoc.org/)
-        * [An introduction to JSDoc](http://www.2ality.com/2011/08/jsdoc-intro.html)
-        * [GitBook](gitbook.com)
-            * [GitBook Toolchain Documentation](https://toolchain.gitbook.com/)
 
 
 
