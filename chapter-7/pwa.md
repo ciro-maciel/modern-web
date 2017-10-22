@@ -22,3 +22,11 @@
 - [JavaScript Libraries for Progressive Web Apps](https://workboxjs.org/)
 - [Offline Google Analytics Made Easy](https://developers.google.com/web/updates/2016/07/offline-google-analytics)
 - [Frameworks and Tools for Progressive Web Apps](https://www.youtube.com/watch?v=zuGE3eFQD9I)
+
+
+// https://github.com/GoogleChrome/airhorn/blob/master/app/sw.js
+// https://jakearchibald.com/2014/offline-cookbook/
+// https://hashedin.com/2017/06/05/building-progressive-web-applications/
+// https://h3manth.com/new/blog/2016/url-navigation-from-service-worker/
+// https://github.com/GoogleChrome/ioweb2015/blob/master/app/scripts/shed/offline-analytics.js
+// https://github.com/GoogleChrome/ioweb2015/blob/9fbdda51cb9bb8c69912277144e3c6910e419893/app/scripts/helper/simple-db.js
