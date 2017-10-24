@@ -14,6 +14,10 @@
 - [Time Travel in React Redux apps using the Redux DevTools](https://onsen.io/blog/react-redux-devtools-with-time-travel/)
 - https://github.com/markerikson/react-redux-links/blob/master/redux-side-effects.md
 
+// http://redux.js.org/docs/api/applyMiddleware.html#tips
+// https://redux-observable.js.org/docs/api/createEpicMiddleware.html
+
+
 ## Redux Form
 - [Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 - [Redux Form Submit To Server With Redux Observable](https://www.youtube.com/watch?v=JT2F2NQ19o0)
